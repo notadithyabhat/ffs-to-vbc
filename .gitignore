@@ -7,4 +7,6 @@ __pycache__/
 *.db
 *.sqlite3
 *.log
-"Project Proposal.pdf"
+Project Proposal.pdf
+*.csv
+*.xlsx
