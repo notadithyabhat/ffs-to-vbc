@@ -58,6 +58,8 @@ This repository contains a fully reproducible data-engineering and policy-analyt
    export OPENAI_API_KEY="sk-..."
    ```
 
+4. Download data/ from the following link and store in base directory: https://drive.google.com/drive/folders/1F00NsziRx7CbRcyXT1xhesEITSdh80ew?usp=sharing
+
 ## Usage
 
 Run each stage in sequence from the command line:
@@ -107,11 +109,6 @@ Run each stage in sequence from the command line:
 * **outputs/interim/**: intermediate CSVs
 * **outputs/final/**: final merged datasets
 * **outputs/figs/**: PNGs for LaTeX report
-
-## Reporting
-
-* A complete LaTeX report template (`report.tex`) is provided under `notebooks/` or project root.
-* Figures can be included via `\includegraphics{outputs/figs/filename.png}`.
 
 ## License & Citation
 
