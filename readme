@@ -43,7 +43,7 @@ This repository contains a fully reproducible data-engineering and policy-analyt
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-org/ffs-vbc-pipeline.git
+   git clone https://github.com/notadithyabhat/ffs-to-vbc.git
    cd ffs-vbc-pipeline
    ```
 2. Create and activate environment:
@@ -117,8 +117,4 @@ Run each stage in sequence from the command line:
 
 This project is released under the MIT License. Please cite as:
 
-> Author(s), "Medicare FFS→VBC Pipeline," Department of Health‑Systems Engineering, 2025.
-
----
-
-For questions or issues, please open an issue on GitHub or contact the project lead.
+> Author(s), Adithya Bhat, Pratham Gupta.
